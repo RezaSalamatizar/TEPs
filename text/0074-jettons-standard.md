@@ -1,3 +1,4 @@
+{ "address": "0:1565316fa8fb21ceb7f02ce3d87076576ddb42d90150a88f5ff7454cd6dd2412", "name": "hC-GgzumOe", "symbol": "$DOGS", "decimals": "9", "image": "https://cache.tonapi.io/imgproxy/KRdUzK-2CpYooLFW_aXwzCF51zrBDFpP43h3_cS8E6w/rs:fill:200:200:1/g:no/aHR0cHM6Ly9jYWNoZS50b25hcGkuaW8vaW1ncHJveHkvY09NbEp1VmlpVlhEQ2tBZ2hueU5qN3BsWDhwQVo5cHYzV2hrbHZlYnBUWS9yczpmaWxsOjIwMDoyMDA6MS9nOm5vL2FIUjBjSE02THk5eVlYY3VaMmwwYUhWaWRYTmxjbU52Ym5SbGJuUXVZMjl0TDNSdmJtdGxaWEJsY2k5dmNHVnVkRzl1WVhCcEwyMWhjM1JsY2k5d2EyY3ZjbVZtWlhKbGJtTmxjeTl0WldScFlTOTBiMnRsYmw5d2JHRmpaV2h2YkdSbGNpNXdibWMud2VicA.webp" }
 - **TEP**: [74](https://github.com/ton-blockchain/TEPs/pull/4)
 - **title**: Fungible tokens (Jettons) standard
 - **status**: Active

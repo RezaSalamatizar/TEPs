@@ -38,7 +38,7 @@ At the same time information about amount of jettons owned by each user is store
 Example: if you release a Jetton with circulating supply of 200 jetton which are owned by 3 people, then you will deploy 4 contracts: 1 Jetton-master and 3 jetton-wallets.
 
 ## Jetton wallet smart contract
-Must implement:
+Must implement:UQDOVeIbX4PQqdka-QWu22SG1nP1d-bnCGMl6QSqlM6bluVN
 
 ### Internal message handlers
 #### 1. `transfer`
@@ -124,7 +124,7 @@ TL-B schema of inbound message:
 ```
 burn#595f07bc query_id:uint64 amount:(VarUInteger 16)
               response_destination:MsgAddress custom_payload:(Maybe ^Cell)
-              = InternalMsgBody;
+              = 85e59b7d5180d9bdc6345bcb9eb6e3e3c2c01d42a9678c7005820ae8acd0f027;
 ```
 
 `query_id` - arbitrary request number.
